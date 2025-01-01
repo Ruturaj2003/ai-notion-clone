@@ -20,7 +20,7 @@ export default function RootLayout({
       <html lang="en">
         <body>
           <Header></Header>
-          <div className="flex min-h-screen">
+          <div className="flex  min-h-screen">
             <Sidebar></Sidebar>
 
             {/* Flex-1 Says to take up all the space available */}
